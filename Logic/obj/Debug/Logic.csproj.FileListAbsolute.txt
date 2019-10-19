@@ -1,0 +1,5 @@
+C:\Users\ivano\source\repos\TL\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\ivano\source\repos\TL\Logic\bin\Debug\Logic.dll
+C:\Users\ivano\source\repos\TL\Logic\bin\Debug\Logic.pdb
+C:\Users\ivano\source\repos\TL\Logic\obj\Debug\Logic.dll
+C:\Users\ivano\source\repos\TL\Logic\obj\Debug\Logic.pdb

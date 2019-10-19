@@ -1,0 +1,15 @@
+﻿<Window x:Class="traffic_light.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:traffic_light"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="455.884" Width="307.5">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="399" Margin="10,10,0,0" VerticalAlignment="Top" Width="280" Source="Resources/trafficlight.png"/>
+        <Ellipse x:Name="RedL" Fill="Black" HorizontalAlignment="Left" Height="94" Margin="103,46,0,0" VerticalAlignment="Top" Width="95"/>
+        <Ellipse x:Name="YellowL" Fill="Black" HorizontalAlignment="Left" Height="94" Margin="103,164,0,0" VerticalAlignment="Top" Width="95"/>
+        <Ellipse x:Name="GreenL" Fill="Black" HorizontalAlignment="Left" Height="94" Margin="103,282,0,0" VerticalAlignment="Top" Width="95"/>
+    </Grid>
+</Window>

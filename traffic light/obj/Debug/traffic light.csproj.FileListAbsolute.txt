@@ -1,0 +1,31 @@
+C:\Users\ivano\source\repos\traffic light\bin\Debug\traffic light.exe.config
+C:\Users\ivano\source\repos\traffic light\bin\Debug\traffic light.exe
+C:\Users\ivano\source\repos\traffic light\bin\Debug\traffic light.pdb
+C:\Users\ivano\source\repos\traffic light\obj\Debug\traffic light.csprojAssemblyReference.cache
+C:\Users\ivano\source\repos\traffic light\obj\Debug\MainWindow.g.cs
+C:\Users\ivano\source\repos\traffic light\obj\Debug\App.g.cs
+C:\Users\ivano\source\repos\traffic light\obj\Debug\traffic light_MarkupCompile.cache
+C:\Users\ivano\source\repos\traffic light\obj\Debug\traffic light_MarkupCompile.lref
+C:\Users\ivano\source\repos\traffic light\obj\Debug\MainWindow.baml
+C:\Users\ivano\source\repos\traffic light\obj\Debug\traffic light.g.resources
+C:\Users\ivano\source\repos\traffic light\obj\Debug\traffic_light.Properties.Resources.resources
+C:\Users\ivano\source\repos\traffic light\obj\Debug\traffic light.csproj.GenerateResource.cache
+C:\Users\ivano\source\repos\traffic light\obj\Debug\traffic light.exe
+C:\Users\ivano\source\repos\traffic light\obj\Debug\traffic light.pdb
+C:\Users\ivano\source\repos\TL\traffic light\bin\Debug\traffic light.exe.config
+C:\Users\ivano\source\repos\TL\traffic light\bin\Debug\traffic light.exe
+C:\Users\ivano\source\repos\TL\traffic light\bin\Debug\traffic light.pdb
+C:\Users\ivano\source\repos\TL\traffic light\obj\Debug\traffic light.csprojAssemblyReference.cache
+C:\Users\ivano\source\repos\TL\traffic light\obj\Debug\MainWindow.g.cs
+C:\Users\ivano\source\repos\TL\traffic light\obj\Debug\App.g.cs
+C:\Users\ivano\source\repos\TL\traffic light\obj\Debug\traffic light_MarkupCompile.cache
+C:\Users\ivano\source\repos\TL\traffic light\obj\Debug\traffic light_MarkupCompile.lref
+C:\Users\ivano\source\repos\TL\traffic light\obj\Debug\MainWindow.baml
+C:\Users\ivano\source\repos\TL\traffic light\obj\Debug\traffic light.g.resources
+C:\Users\ivano\source\repos\TL\traffic light\obj\Debug\traffic_light.Properties.Resources.resources
+C:\Users\ivano\source\repos\TL\traffic light\obj\Debug\traffic light.csproj.GenerateResource.cache
+C:\Users\ivano\source\repos\TL\traffic light\obj\Debug\traffic light.exe
+C:\Users\ivano\source\repos\TL\traffic light\obj\Debug\traffic light.pdb
+C:\Users\ivano\source\repos\TL\traffic light\bin\Debug\Logic.dll
+C:\Users\ivano\source\repos\TL\traffic light\bin\Debug\Logic.pdb
+C:\Users\ivano\source\repos\TL\traffic light\obj\Debug\traffic light.csproj.CopyComplete
